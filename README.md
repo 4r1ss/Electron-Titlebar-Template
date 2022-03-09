@@ -1,7 +1,7 @@
 # Electron-Titlebar-Template
 
 
-CSS based MacOs UI title bar  template for Electron-based desktop apps
+CSS based MacOs UI Titlebar Template for Electron-based desktop apps
 
 ![alt text](https://i.imgur.com/ABdAZEb.png)
 
