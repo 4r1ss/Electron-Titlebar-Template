@@ -6,7 +6,7 @@ CSS based MacOs UI Titlebar Template for Electron-based desktop apps
 ![alt text](https://i.imgur.com/ABdAZEb.png)
 
 
-# Titlebar can:
+# TitleBar emits the following events:
 
 - minimize
 - maximize
