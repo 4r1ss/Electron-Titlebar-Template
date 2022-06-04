@@ -2,6 +2,8 @@
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-3.2.5-pink.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/github/stars/4r1ss/Electron-Titlebar-Template" />
+  <img alt="Version" src="https://img.shields.io/github/license/4r1ss/Electron-Titlebar-Template?color=yellow" />
 </p>
 
 
@@ -24,3 +26,6 @@ Removes minimize button  =    <button id="minimizeBtn" class="minimize"><i class
 Removes maximize button  =    <button id="maxResBtn" class="maxRes"><i class="material-icons"></i></button>
 Removes close button     =    <button id="closeBtn" class="close"><i class="material-icons"></i></button>
 ```
+
+## License
+[MIT](https://github.com/4r1ss/Electron-Titlebar-Template/blob/main/LICENSE)
