@@ -1,5 +1,9 @@
 # Electron-Titlebar-Template
 
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-3.2.5-pink.svg?cacheSeconds=2592000" />
+</p>
+
 
 Titlebar Template for Electron-based desktop apps
 
