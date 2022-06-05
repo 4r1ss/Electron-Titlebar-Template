@@ -31,4 +31,4 @@ Titlebar Template for Electron-based desktop apps
 
 
 ## License
-[MIT](https://github.com/4r1ss/Electron-Titlebar-Template/blob/main/LICENSE)
+[MIT](https://github.com/4r1ss/Electron-Titlebar-Template/blob/main/LICENSE.md)
