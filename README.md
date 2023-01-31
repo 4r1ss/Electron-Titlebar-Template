@@ -20,12 +20,6 @@ Titlebar Template for Electron-based desktop apps
 - close
 
 
-# You can always remove buttons by deleting:
-
-- Minimize button :   ``` <button id="minimizeBtn" class="minimize"><i class="material-icons"></i></button> ```
-- Maximize button :  ``` <button id="maxResBtn" class="maxRes"><i class="material-icons"></i></button> ```
-- Close button :  ``` <button id="closeBtn" class="close"><i class="material-icons"></i></button> ```
-
 ## Version
 - Electron version used for this template: ```17.1.0```
 
