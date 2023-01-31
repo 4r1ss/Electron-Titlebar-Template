@@ -9,7 +9,7 @@
 
 Titlebar Template for Electron-based desktop apps
 
-![alt text](https://i.imgur.com/ABdAZEb.png)
+![alt text](https://i.imgur.com/87Y3JAV.png)
 
 
 # TitleBar emits the following events:
