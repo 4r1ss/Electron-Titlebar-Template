@@ -1,9 +1,9 @@
 # Electron-Titlebar-Template
 
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-3.2.5-pink.svg?cacheSeconds=2592000" />
-  <img alt="Version" src="https://img.shields.io/github/stars/4r1ss/Electron-Titlebar-Template" />
-  <img alt="Version" src="https://img.shields.io/github/license/4r1ss/Electron-Titlebar-Template?color=yellow" />
+  <img alt="Version" src="https://img.shields.io/badge/version-3.2.5-white.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/github/stars/4r1ss/Electron-Titlebar-Template?color=darkblue" />
+  <img alt="Version" src="https://img.shields.io/github/license/4r1ss/Electron-Titlebar-Template?color=black" />
 </p>
 
 
