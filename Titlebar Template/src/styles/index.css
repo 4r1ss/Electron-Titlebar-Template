@@ -1,3 +1,4 @@
+/*https://github.com/4r1ss*/
 body{
 	
 	user-select: none;
@@ -94,4 +95,22 @@ body{
 	border-radius: 50%;
 	background-color:  #b34341;
 }
- 
+.githubH2{
+	color: #ffffff;  
+	text-align: center;
+	user-select:text;
+	margin: auto;
+  	width: 640px; 
+  	padding: 50px;
+  	font-family: 'Lexend Deca', sans-serif; 
+}
+.githuba{
+	background-color: #9a9a9a;
+	color: rgb(0, 0, 0);
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 5px;
+	cursor:help;
+  }
