@@ -3,7 +3,7 @@ const maxResBtn = document.getElementById('maxResBtn')
 const ipc = ipcRenderer
 
 
-
+ 
 /// MINIMIZE APP
 minimizeBtn.addEventListener('click', ()=>{
     ipc.send('minimizeApp')
